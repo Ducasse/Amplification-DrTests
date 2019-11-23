@@ -20,5 +20,5 @@ BaselineOfAmplificationDrTests >> baseline: spec [
 				with: [ spec repository: 'github://mabdi/small-amp:betav0.3/src' ].
 			spec
 				baseline: 'DrTests'
-				with: [ spec repository: 'github://ObjectProfile/DrTests:v1.0.1/src' ] ]
+				with: [ spec repository: 'github://juliendelplanque/DrTests/src/' ] ]
 ]
