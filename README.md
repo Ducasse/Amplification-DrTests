@@ -8,8 +8,9 @@ Test Amplification for DrTest
 
 ## How to load
 
-Set the Bytecode Backend to `SistaV1` in the prefrence.
-Then run the following code:
+- Set the Bytecode Backend to `SistaV1` in the prefrence.
+
+- Then run the following code:
 
 ```smalltalk
 Metacello new
@@ -24,7 +25,7 @@ More info @ https://github.com/mabdi/Amplification-Roassal3/blob/master/README.m
 
 ## Generated versions
 
-Currently, Small-Amp creates this versions:
+Currently, Small-Amp creates these versions:
 
 - Amp: amplified tests generated from original.
 - AmpMin: The assert statements which doesn't kill a mutant is removed from Amp.
